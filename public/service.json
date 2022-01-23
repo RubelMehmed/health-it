@@ -1,0 +1,26 @@
+[
+    {
+      "_id": "1",
+      "image": "http://medicare.bold-themes.com/pshychiatrist/wp-content/uploads/sites/7/2016/03/services-1.jpg",
+      "name": "Best psychological procedures",
+      "info": "Aenean vel justo tempus, suscipit nisl non, tristique arcu. Vestibulum placerat accumsan accumsan. In hac habitasse platea dictumst. Sed at vulputate velit, id venenatis lacus. Sed vel justo non sapien vehicula fringilla et in neque. Vivamus eget tellus vitae dolor tempor auctor id vitae nisl. Sed ac mi ut augue condimentum molestie eu in elit. In at cursus enim, eget cursus massa. Suspendisse faucibus vel."
+    },
+    {
+      "_id": "2",
+      "image": "http://medicare.bold-themes.com/pshychiatrist/wp-content/uploads/sites/7/2016/03/services-2.jpg",
+      "name": "Analyzing the issues together",
+      "info": "Aenean eget dui porta, congue mi nec, dignissim lorem. Fusce suscipit mi viverra varius dignissim. Quisque pharetra dignissim purus pharetra gravida. Morbi aliquam consectetur libero, ut fringilla velit auctor vel. Praesent vitae tristique ipsum. Duis vehicula id ligula sed tincidunt. Vestibulum mollis hendrerit luctus. Integer maximus leo ut ante laoreet, ac facilisis nulla scelerisque. Quisque a orci pharetra quam."
+    },
+    {
+      "_id": "3",
+      "image": "http://medicare.bold-themes.com/pshychiatrist/wp-content/uploads/sites/7/2016/03/services-3.jpg",
+      "name": "Talking, listening & understanding you",
+      "info": "Donec ultrices vulputate purus, eget accumsan nibh pellentesque sed. Donec at dignissim risus, at dapibus eros. Duis ut sapien tincidunt turpis finibus efficitur. Vivamus ut massa quis erat ornare venenatis in vitae lacus. Nunc sit amet lobortis nisi, a facilisis massa. Quisque molestie ante et varius placerat. Nullam mattis ante augue, eu dapibus mi dapibus et. Quisque ac placerat nisi."
+    },
+    {
+      "_id": "4",
+      "image": "http://medicare.bold-themes.com/pshychiatrist/wp-content/uploads/sites/7/2016/03/services-4.jpg",
+      "name": "Light at the end of the dark tunnel",
+      "info": "Etiam finibus gravida massa, nec tempus elit porttitor ultrices. Nunc semper eu nibh hendrerit scelerisque. Ut dapibus aliquet neque eu posuere. Quisque iaculis augue convallis leo accumsan tristique et eget odio. Donec libero arcu, convallis egestas felis eu, finibus pellentesque est. Suspendisse ante sem, cursus eget orci vel, aliquet congue felis. Phasellus varius ex ac nisl porttitor volutpat. Fusce suscipit ligula."
+    }
+  ]
